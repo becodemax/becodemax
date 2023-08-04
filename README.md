@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">Cyberstuff enjoyer from Earth.</h3>
+<h3 align="center">Cyber-stuff enjoyer from Earth.</h3>
 
 - 🔭 I’m currently studying at **@BeCode.**
 
